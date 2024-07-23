@@ -1,4 +1,4 @@
-# augmend-dev-docs
+# Augmend Developer Documentation
 Developer documentation for Augmend products (APIs)
 
 
